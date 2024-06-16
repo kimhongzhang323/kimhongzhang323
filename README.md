@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <h2>⚡Focusing in gaining more language skills.</h2>
+ <h2>⚡Focusing on gaining more language skills.</h2>
  <h2>🔭 Currently focusing on full-stack </h2>
 
 
