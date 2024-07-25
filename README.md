@@ -4,10 +4,12 @@
  <h2>🔭 Currently focusing on full-stack </h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhongzhang323&show_icons=true&theme=neon&hide=issues)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhongzhang323&theme=neon&layout=compact)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhongzhang323&show_icons=true&theme=neon&hide=issues)<br/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhongzhang323&theme=neon&layout=compact)<br/>
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kimhongzhang323&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ## Tech Stack:
 
