@@ -11,11 +11,11 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhongzhang323&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ### Leetcode
-  <div align="center">
+  
 
   ![LeetCode Stats](https://leetcode.card.workers.dev/kimhongzhang?theme=auto&font=baloo&extension=null)
 
-  </div>
+  
 
 ## Tech Stack:
 
