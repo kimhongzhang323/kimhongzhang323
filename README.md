@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  <h2>⚡Focusing on gaining more language skills.</h2>
- <h2>🔭 Currently focusing on full-stack </h2>
+ <h2>🔭 Currently focusing on AI and Machinee Learning </h2>
 
 
 <h3>My GitHub contributions summary</h3>
