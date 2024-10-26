@@ -6,6 +6,8 @@
 
 <h3>My GitHub contributions summary</h3>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhongzhang323&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimhongzhang323&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhongzhang323&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
