@@ -120,5 +120,6 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/kimhongzhang323/kimhongzhang323/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kimhongzhang323/kimhongzhang323/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
