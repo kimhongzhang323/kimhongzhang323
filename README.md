@@ -115,7 +115,7 @@
 ---
 
 ### 🧩 Quote of the Day  
-> *"The best way to predict the future is to invent it." — Alan Kay*
+> *"You have to, you have to, you have to suffer, you have to struggle, you have to endeavor." — Jensen Huang*
 
 ---
 
