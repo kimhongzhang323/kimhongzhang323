@@ -11,7 +11,6 @@
 - 🎓 Pursuing **Bachelor of Computer Science (Artificial Intelligence)**  
 - 🤖 Passionate about **AI, ML, and intelligent automation**  
 - 💻 Focused on **building scalable full-stack applications**  
-- 🌱 Currently exploring **Deep Learning, LLMs, and Computer Vision**  
 - ⚡ Fun fact: I love turning coffee into clean, efficient code ☕  
 
 ---
@@ -42,47 +41,32 @@
 
 ## 🚀 Featured Projects  
 
-### 🧩 [UMH25](https://github.com/kimhongzhang323/UMH25)
-> **AI-Driven Merchant Growth & Assistance Platform**
-- 🧠 Integrated **AI chat & recommendation system** using **RAG**, **embeddings**, and **vector DB**.  
-- 🧩 Built with **FastAPI**, **React (Vite + Tailwind)**, and **Python** backend.  
-- ⚙️ Implements modular architecture with **AI integration**, **data persistence**, and **clean REST APIs**.  
-- 🪄 *Showcases full-stack + AI system design and production-ready coding.*
+## 🏆 Competitions & Hackathons
+| Year | Competition / Hackathon | Project | Role | Tech Stack | Achievement |
+|------|-------------------------|---------|------|------------|-------------|
+| 2025 | **Godamlah 2025** | [Journey](https://github.com/kimhongzhang323/Journey) | Full-Stack & AI Developer | Flutter, Dart, Python FastAPI, GEMINI Api | Participant |
+| 2025 | **Cursor × Anthropic Hackathon (Ryt Bank Track)** | [SiBehGoodBank](https://github.com/kimhongzhang323/SiBehGoodBank) | Backend & System Developer | Flutter, Dart, Python FastAPI, Anthropic API | Participant |
+| 2025 | **VHack 2025** | [VHack-2025](https://github.com/JaxChoong/VHack-2025) | Frontend Contributor | Next.js, TypeScript, API Integration | Participant |
+| 2025 | **GDGoC UUM Web Dev Competition 2025** | [GDGoCUM_WebDevComp2025](https://github.com/kimhongzhang323/GDGoCUM_WebDevComp2025) | Full-Stack Developer | Vite.js | Participant |
+| 2025 | **UM Hackathon 2025** | [UMH25](https://github.com/kimhongzhang323/UMH25) | Full-Stack & AI Engineer | FastAPI, React, Tailwind, RAG, Embeddings | 🥇 Top 3 Prelim + Finalist |
+| 2025 | **Codenection 2025** | [AutoDocX](https://github.com/kimhongzhang323/AutoDocX) | Full-Stack & AI Developer | React, TypeScript, Spring Boot, OpenAI API, Vector Embeddings | 🏆 Champion |
+| 2024 | **Google Student Innovation / AI Challenge** | [Student Portal with AI](https://github.com/kimhongzhang323/Student-Portal-with-AI-) | Full-Stack & AI Developer | AI Integration, Web Technologies | Participant |
+| 2024 | **Godamlah 2024** | [Godamlah](https://github.com/kimhongzhang323/Godamlah) | Developer | Web / App Stack | Participant |
 
----
 
-### 🤖 [Codenection2025](https://github.com/kimhongzhang323/Codenection2025)
-> **AutoDocX: AI-Powered Documentation Generator**
-- 🏆 Created for **Codenection 2025 Hackathon** — “Fix the Docs” challenge.  
-- 🧠 Uses **OpenAI API**, **vector embeddings**, and **retrieval** for context-aware documentation.  
-- 🧩 Stack: **React + TypeScript** frontend, **Spring Boot (Java)** backend.  
-- 📘 Automates developer documentation — improving consistency and productivity.
-
----
-
-### 💸 [KimPay](https://github.com/kimhongzhang323/KimPay)
-> **A Fintech Concept App for Seamless Transactions**
-- 💳 Aiming to simplify digital payments with **secure backend APIs** and **real-time data**.  
-- ⚙️ Stack: **React**, **FastAPI**, and **MongoDB**.  
-- 🚀 Focus on authentication, transactions, and smart analytics.  
-- *(Ongoing project – exploring fintech + AI integration.)*
-
----
-
-### 🌍 [VHack-2025](https://github.com/JaxChoong/VHack-2025)
-> **Collaborative Hackathon Project (Contributor)**
-- 🧩 Worked on **Next.js + TypeScript** application with a team.  
-- 🔗 Contributed to **frontend logic, data flows**, and **API integration**.  
-- 🤝 Showcases collaboration and version control proficiency.
-
+## 📚 Own Projects & Assignments
+| Year | Project | Category | Tech Stack | Description |
+|------|---------|----------|------------|-------------|
+| 2025 | **[KimPay](https://github.com/kimhongzhang323/KimPay)** | Own Project | Flutter, Dart | Mobile fintech app exploring digital payments and transaction flows. |
+| 2025 | **[HiGreen](https://github.com/kimhongzhang323/HiGreen)** | Own Project | React Native, Express.js | Cross-platform sustainability-focused application with web and mobile support. |
+| 2025 | **[Payment Gateway](https://github.com/kimhongzhang323/PaymentGateway)** | Academic Assignment | Java, Spring Boot | Payment gateway system focusing on transaction handling and API design. |
+| 2025 | **[Mobile App Development (WIA2007)](https://github.com/kimhongzhang323/MobileAppDevelopmentWIA2007)** | Academic Assignment | Java, Gradle | Mobile application projects developed for university module WIA2007. |
+| 2024 | **[Student Portal](https://github.com/kimhongzhang323/Student-Portal)** | Academic Assignment | Java | University student portal system built as part of coursework. |
+| 2024 | **[Intro to Data Science (WIA1007)](https://github.com/kimhongzhang323/WIA1007-Intro-to-Data-Science)** | Academic Assignment | Python, Google Colab | Data analysis and machine learning fundamentals through hands-on assignments. |
+| 2023 | **[Universal Appointment System (UAS)](https://github.com/kimhongzhang323/Universal-Appointment-System-UAS-)** | Academic Assignment | Python, HTML, Tailwind CSS, SQLite | Appointment management system with database persistence and UI integration. |
 ---
 
 ### ⚡ GitHub Stats  
-
-#### 🏆 Achievements & Contributions  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimhongzhang323&theme=radical&no-frame=true&margin-w=10&row=1" />
-</p>
 
 #### 📈 Activity & Performance  
 <p align="center">
@@ -118,8 +102,4 @@
 > *"You have to, you have to, you have to suffer, you have to struggle, you have to endeavor." — Jensen Huang*
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kimhongzhang323/kimhongzhang323/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
