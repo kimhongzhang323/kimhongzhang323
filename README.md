@@ -45,6 +45,7 @@
 
 | Year | Name | Project | Role | Tech Stack | Achievement | 
 |------|------|---------|------|------------|-------------|
+| 2025 | UM Startup Investor Challenge | [MyRumah](https://github.com/kimhongzhang323/MyRumah) | Full-Stack & AI Developer | React Native, Typescript, GEMINI API | First Runner Up |
 | 2025 | Godamlah 2025 | [Journey](https://github.com/kimhongzhang323/Journey) | Full-Stack & AI Developer | Flutter, Dart, Python FastAPI, GEMINI API | Participant | 
 | 2025 | Cursor × Anthropic Hackathon (Ryt Bank Track) | [SiBehGoodBank](https://github.com/kimhongzhang323/SiBehGoodBank) | Backend & System Developer | Flutter, Dart, Python FastAPI, Anthropic API | Participant | 
 | 2025 | VHack 2025 | [VHack-2025](https://github.com/JaxChoong/VHack-2025) | Frontend Contributor | Next.js, TypeScript, API Integration | Participant |
