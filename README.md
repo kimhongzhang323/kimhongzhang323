@@ -50,8 +50,9 @@
 | 2025 | Cursor × Anthropic Hackathon (Ryt Bank Track) | [SiBehGoodBank](https://github.com/kimhongzhang323/SiBehGoodBank) | Backend & System Developer | Flutter, Dart, Python FastAPI, Anthropic API | Participant | 
 | 2025 | VHack 2025 | [VHack-2025](https://github.com/JaxChoong/VHack-2025) | Frontend Contributor | Next.js, TypeScript, API Integration | Participant |
 | 2025 | GDGoC UUM Web Dev Competition 2025 | [GDGoCUM_WebDevComp2025](https://github.com/kimhongzhang323/GDGoCUM_WebDevComp2025) | Full-Stack Developer | Vite.js | Participant | 
-| 2025 | UM Hackathon 2025 | [UMH25](https://github.com/kimhongzhang323/UMH25) | Full-Stack & AI Engineer | FastAPI, React, Tailwind, RAG, Embeddings | 🥇 Top 3 Prelim + Finalist | 
-| 2025 | Codenection 2025 | [AutoDocX](https://github.com/kimhongzhang323/AutoDocX) | Full-Stack & AI Developer | React, TypeScript, Spring Boot, OpenAI API, Vector Embeddings | 🏆 Champion |
+| 2025 | UM Hackathon 2025 | [UMH25](https://github.com/kimhongzhang323/UMH25) | Full-Stack & AI Developer | FastAPI, React, Tailwind, RAG, Embeddings | Top 3 Prelim + Finalist | 
+| 2025 | Codenection 2025 | [AutoDocX](https://github.com/kimhongzhang323/AutoDocX) | Full-Stack & AI Developer | React, TypeScript, Spring Boot, OpenAI API, Vector Embeddings | Champion |
+| 2025 | FutureHack 2025 | [ByeDB](https://github.com/MarcusMQF/ByeDB) | Developer | React, Typescript, GEMINI API | First Runner Up|
 | 2024 | Google Student Innovation / AI Challenge | [Student Portal with AI](https://github.com/kimhongzhang323/Student-Portal-with-AI-) | Full-Stack & AI Developer | AI Integration, Web Technologies | Participant |
 | 2024 | Godamlah 2024 | [Godamlah](https://github.com/kimhongzhang323/Godamlah) | Developer | Web / App Stack | Participant |
 | 2025 | Payment Gateway | [PaymentGateway](https://github.com/kimhongzhang323/PaymentGateway) | Full-Stack Developer | Java, Spring Boot | Academic Assignment |
