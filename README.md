@@ -63,10 +63,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhongzhang323&size_weight=0.5&count_weight=0.5" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kimhongzhang323&show_icons=true&theme=radical" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhongzhang323)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhongzhang323&show_icons=true&theme=radical)
+
 
 
 ### 📊 Contribution Graph
