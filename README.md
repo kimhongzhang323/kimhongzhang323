@@ -133,16 +133,21 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimhongzhang323&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&title_color=00F7A3&icon_color=00F7A3" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhongzhang323&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=00F7A3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimhongzhang323&theme=radical" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimhongzhang323&theme=radical&hide_border=true&background=141321&ring=00F7A3&fire=00F7A3&currStreakLabel=00F7A3" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimhongzhang323&theme=radical" alt="Stats" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimhongzhang323&theme=radical&utcOffset=8" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimhongzhang323&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimhongzhang323&theme=radical" alt="Repos per language" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimhongzhang323&theme=radical" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kimhongzhang323&theme=radical&hide_border=true&background=141321&ring=00F7A3&fire=00F7A3&currStreakLabel=00F7A3" alt="GitHub streak" />
 </p>
 
 ### 📈 Contribution Graph
