@@ -1,6 +1,6 @@
 <!-- ===== ANIMATED WAVE HEADER ===== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:008f60,100:00F7A3&height=200&section=header&text=Kim%20Hong%20Zhang&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20(AI)%20Student%20%40%20Universiti%20Malaya%20%C2%B7%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descSize=16" alt="Header banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:008f60,100:00F7A3&height=200&section=header&text=Kim%20Hong%20Zhang&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20(AI)%20Student%20at%20Universiti%20Malaya%20%7C%20Full-Stack%20and%20AI%20Developer&descAlignY=58&descSize=16" alt="Header banner" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
